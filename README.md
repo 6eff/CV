@@ -53,7 +53,6 @@ BA Economics
 In love with techno music and jogging.
 
 ## [Experience](www.linkedin.com/in/victorvasiliev)
-[LI img]: https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png
 ###### Unix 2012 - 2016
 CFO
 
