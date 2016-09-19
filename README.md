@@ -21,6 +21,7 @@ Working as a consultant involves a lot of analysis and it requires not only debu
 Graduating [Makers Academy](http://www.makersacademy.com/) is what really allows me add web dev to my skills. I can distinguish code that was written using TDD from one that wasn't, I can tell why you need refactoring. I can advocate use of agile development and X-programming values and persuade to use those, because benefits are great. I know that my code needs to be SOLID in order to work and not being scraped in two weeks. I understand why designing my app on RESTful architecture will make it fast, reliable and scalable. I know what I'd use on each of layers of three tear architecture and what's happening behind.
 There are couple of projects where I've tried to learn those skills and implement them
 * [Devine](https://github.com/SocialList/devine) trying to make Github sociable
+* [DIY-assistant](https://github.com/DiyAssistant/diy_assistant) web app that helps you find DIY instruction for everything 
 * [BnB](https://github.com/lukecartledge/MakersBnB) cloning a well known bed and breakfast searching app
 * [Chitter](https://github.com/6eff/chitter-challenge) microblogging
 * [Game of - RPSSL](https://github.com/6eff/rps-challenge)
