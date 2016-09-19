@@ -52,7 +52,9 @@ BA Economics
 ## Hobbies
 In love with techno music and jogging.
 
-## [Experience](www.linkedin.com/in/victorvasiliev)
+## Experience
+[LinkedIn](www.linkedin.com/in/victorvasiliev)
+
 ###### Unix 2012 - 2016
 CFO
 
