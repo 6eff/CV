@@ -40,10 +40,10 @@ Making a drastic change from finance professional to a web developer and finishi
 
 ##### Johns Hopkins, Coursera remote (Jan-2016 - May-2016)
 
-Introduction to web development and Ruby.
+* Introduction to web development and Ruby.
 
 ##### Economic Academy of Modlova (1997 - 2002)
-BA Economics
+* BA Economics
 
 ## Certifications
 * FCCA - fellow certified chartered accountant, UK
