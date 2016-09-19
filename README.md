@@ -60,14 +60,14 @@ In love with techno music and jogging.
 ###### Unix 2012 - 2016
 CFO
 
-##### NTS LTD 2011 - 2012
+###### NTS LTD 2011 - 2012
 Chief corp reporting
 
-##### MIRAX Group 2007 - 2011
+###### MIRAX Group 2007 - 2011
 Chief corp reporting
 
-##### KPMG Moscow 2005 - 2007
+###### KPMG Moscow 2005 - 2007
 Auditor
 
-##### KPMG Moldova, Romania 2002 - 2005
+###### KPMG Moldova, Romania 2002 - 2005
 Auditor
