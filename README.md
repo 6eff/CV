@@ -5,7 +5,7 @@ For last couple of years I was managing finance function within companies and as
 I'd like to join a team of like-minded individuals, a company that values result over the process, that truly believes that company results are results of each person working under same roof and that exceptional products start with exceptional work place. I'd like to join a team for which X-programming values are not just words from some fancy new technique.
 
 ## Skills
-__________
+-----
 #### Team player
 I have experience of being a team member starting from a junior role ending up managing several teams on different assignments. I've managed teams of 2 to departments of 30 people.
 
@@ -24,13 +24,13 @@ There are couple of projects where I've tried to learn those skills and implemen
 * [Devine](https://github.com/SocialList/devine) trying to make Github sociable
 * [BnB](https://github.com/lukecartledge/MakersBnB) cloning a well known bed and breakfast searching app
 * [Chitter](https://github.com/6eff/chitter-challenge) microblogging
-* [Game of - RPSSL](https://github.com/6eff/rps-challenge) 
+* [Game of - RPSSL](https://github.com/6eff/rps-challenge)
 
 #### Perseverance
 Making a drastic change from finance professional to a web developer and finishing a 12 weeks demanding bootcamp required a lot of perseverance.
 
 ## Education
-____________
+-----
 ##### Makers Academy (Jun-2016 - Sep-2016)
 
 Curiosity and hungry passion for code
@@ -48,7 +48,7 @@ Introduction to web development and Ruby.
 BA Economics
 
 ## Certifications
-____________
+-----
 FCCA - fellow certified chartered accountant, UK
 CPA - certified public accountant, BC Canada
 
@@ -56,7 +56,7 @@ CPA - certified public accountant, BC Canada
 In love with techno music and jogging.
 
 ## Experience
-_____________
+-----
 ###### Unix 2012 - 2016
 CFO
 
