@@ -33,12 +33,12 @@ Making a drastic change from finance professional to a web developer and finishi
 -----
 ##### Makers Academy (Jun-2016 - Sep-2016)
 
-Curiosity and hungry passion for code
-Independent learner and problem-solver
-OOP, TDD, SOLID, MVC, DDD
-Software Craftsmanship
-Ruby, Rails, Javascript, Node.js, Angular.js
-Rspec, Jasmine, Mocha
+* Curiosity and hungry passion for code
+* Independent learner and problem-solver, a good pair partner
+* OOP, TDD, SOLID, MVC, DDD
+* Software Craftsmanship
+* Ruby, Rails, Javascript
+* Rspec, Jasmine, Capybara
 
 ##### Johns Hopkins, Coursera remote (Jan-2016 - May-2016)
 
