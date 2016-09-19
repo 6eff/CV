@@ -69,4 +69,5 @@ Auditor
 ###### KPMG Moldova, Romania 2002 - 2005
 Auditor
 
-[LinkedIn and recommendations](https://www.linkedin.com/in/victorvasiliev)
+![alt text]( https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png)
+[profile](https://www.linkedin.com/in/victorvasiliev)
