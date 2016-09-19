@@ -5,7 +5,6 @@ For last couple of years I was managing finance function within companies and as
 I'd like to join a team of like-minded individuals, a company that values result over the process, that truly believes that company results are results of each person working under same roof and that exceptional products start with exceptional work place. I'd like to join a team for which X-programming values are not just words from some fancy new technique.
 
 ## Skills
------
 #### Team player
 I have experience of being a team member starting from a junior role ending up managing several teams on different assignments. I've managed teams of 2 to departments of 30 people.
 
@@ -30,7 +29,6 @@ There are couple of projects where I've tried to learn those skills and implemen
 Making a drastic change from finance professional to a web developer and finishing a 12 weeks demanding bootcamp required a lot of perseverance.
 
 ## Education
------
 ##### Makers Academy (Jun-2016 - Sep-2016)
 
 * Curiosity and hungry passion for code
@@ -48,15 +46,14 @@ Introduction to web development and Ruby.
 BA Economics
 
 ## Certifications
------
-FCCA - fellow certified chartered accountant, UK
-CPA - certified public accountant, BC Canada
+* FCCA - fellow certified chartered accountant, UK
+* CPA - certified public accountant, BC Canada
 
 ## Hobbies
 In love with techno music and jogging.
 
-## Experience
------
+## [Experience](www.linkedin.com/in/victorvasiliev)
+[LI img]: https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png
 ###### Unix 2012 - 2016
 CFO
 
