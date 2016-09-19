@@ -53,7 +53,6 @@ BA Economics
 In love with techno music and jogging.
 
 ## Experience
-[LinkedIn](https://www.linkedin.com/in/victorvasiliev)
 
 ###### Unix 2012 - 2016
 CFO
@@ -69,3 +68,5 @@ Auditor
 
 ###### KPMG Moldova, Romania 2002 - 2005
 Auditor
+
+[LinkedIn and recommendations](https://www.linkedin.com/in/victorvasiliev)
