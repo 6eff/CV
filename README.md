@@ -1,8 +1,7 @@
 ## Victor Vasiliev
 
-For last couple of years I was managing finance function within companies and as an external consultant. Now I embarked a developer boat to sail ever-changing see of information technology.
-Always curious about new things, new ways of solving old problems. Challenging myself and others around me on believes otherwise considered right and legit. Truly believe that simple solutions are best solutions to every problem.
-I'd like to join a team of like-minded individuals, a company that values result over the process, that truly believes that company results are results of each person working under same roof and that exceptional products start with exceptional work place. I'd like to join a team for which XP values are not just words from some fancy new technique.
+For the last couple of years I was managing finance function in companies and as an external consultant. Now I have embarked a developer boat to sail the ever-changing see of information technology.
+Always curious about new things, new ways of solving old problems. Challenging myself and others around me on beliefs otherwise considered right and legit. Truly believe that simple solutions are the best solutions to every problem. I'd like to join a team of like-minded individuals, a company that values result over the process, that truly believes that company results are the results of each person working under the same roof and that exceptional products start with an exceptional workplace. I'd like to join a team for which XP values are not just words from some fancy new technique.
 
 ## Skills
 #### Team player
