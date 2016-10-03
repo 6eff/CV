@@ -21,7 +21,7 @@ Graduating [Makers Academy](http://www.makersacademy.com/) added web dev to my s
 There are couple of projects where I've tried to learn those skills and implement them
 * [Devine](https://github.com/SocialList/devine) trying to make Github sociable
 * [DIY-assistant](https://github.com/DiyAssistant/diy_assistant) web app that helps you find DIY instruction for everything
-* [BnB](https://github.com/lukecartledge/MakersBnB) cloning a well known bed and breakfast searching app
+* [BnB](https://github.com/6eff/MakersBnB) cloning a well known bed and breakfast searching app
 * [Chitter](https://github.com/6eff/chitter-challenge) microblogging
 * [Game of - RPSSL](https://github.com/6eff/rps-challenge)
 
