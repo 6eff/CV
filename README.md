@@ -37,7 +37,7 @@ Making a drastic change from finance professional to a web developer and finishi
 * Software Craftsmanship
 * Ruby, Rails, Javascript
 * Rspec, Jasmine, Capybara
-* PHP, Laravel 9own project of reddit clone)
+* PHP, Laravel (own project of Reddit clone)
 
 ##### Johns Hopkins, Coursera remote (Jan-2016 - May-2016)
 
